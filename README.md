@@ -77,6 +77,7 @@ An intelligent application developed in Python and optimized for interactive env
 * **Data Manipulation:** `pandas`, `numpy`
 * **Spreadsheet Styling:** `openpyxl`
 * **Runoff Environment:** Google Colab / Jupyter Notebooks
+* Task bot:  Selenium
 
 ---
 
