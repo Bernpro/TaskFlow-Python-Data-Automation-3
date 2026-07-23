@@ -9,7 +9,7 @@ Automation with Python: Web Scraping: Extract data from supplier or competitor w
 
 
 
-2 Modulos: 
+2 Modules: 
 
 # 📊 Sistema de Automatización de Reportes Ejecutivos en Python
 
