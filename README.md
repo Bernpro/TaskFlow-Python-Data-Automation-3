@@ -33,7 +33,7 @@ Una aplicación inteligente desarrollada en Python y optimizada para entornos in
 * **Manipulación de Datos:** `pandas`, `numpy`
 * **Estilizado de Hojas de Cálculo:** `openpyxl`
 * **Entorno de Ejecución:** Google Colab / Jupyter Notebooks
-* Task bot: Selenium or an equivalent. 
+* Task bot: Selenium or el equivalente.  
 
 ---
 
@@ -77,7 +77,7 @@ An intelligent application developed in Python and optimized for interactive env
 * **Data Manipulation:** `pandas`, `numpy`
 * **Spreadsheet Styling:** `openpyxl`
 * **Runoff Environment:** Google Colab / Jupyter Notebooks
-* Task bot:  Selenium
+* Task bot:  Selenium or its equivalent.
 
 ---
 
