@@ -1,4 +1,8 @@
-# TaskFlow-Python-Data-Automation-3
+
+
+
+
+# TaskFlow-Python-Data-Automation- 2 modules:  For the 3 modules we add Selenium for Task bots. 
 Automation with Python: Web Scraping: Extract data from supplier or competitor websites. Report Automation: Turn boring Excel files into automated reports. Task Bots: Create scripts that automatically fill out forms or download files.
 
 
@@ -29,6 +33,7 @@ Una aplicación inteligente desarrollada en Python y optimizada para entornos in
 * **Manipulación de Datos:** `pandas`, `numpy`
 * **Estilizado de Hojas de Cálculo:** `openpyxl`
 * **Entorno de Ejecución:** Google Colab / Jupyter Notebooks
+* Task bot: Selenium or an equivalent. 
 
 ---
 
